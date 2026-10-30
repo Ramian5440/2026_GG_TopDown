@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 28
-  productGUID: 80716c8fe78221d43b0fe44c819d1188
+  productGUID: 30fe074bde3d05d4384aca2ea08be78b
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: 2026_GG_TopDown
+  productName: 2026_topdown_GG
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -609,14 +609,14 @@ PlayerSettings:
   editorAssembliesCompatibilityLevel: 1
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: 2026_GG_TopDown
+  metroPackageName: 2026_topdown_GG
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: 2026_GG_TopDown
+  metroApplicationDescription: 2026_topdown_GG
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
@@ -687,10 +687,10 @@ PlayerSettings:
   captureStartupLogs: {}
   activeInputHandler: 1
   windowsGamepadBackendHint: 0
-  cloudProjectId: 9caaf84e-6ed7-450b-bc90-afaa6eae4e2e
+  cloudProjectId: 0b26e37a-8404-498d-a4b9-e085032b7c83
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: 2026_GG_TopDown
+  projectName: 2026_topdown_GG
   organizationId: dudrms5420-gmail-com
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
