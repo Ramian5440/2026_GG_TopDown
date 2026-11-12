@@ -609,7 +609,7 @@ GameObject:
   - component: {fileID: 373370502}
   - component: {fileID: 373370501}
   m_Layer: 0
-  m_Name: Prompt (1)
+  m_Name: Prompt
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -30167,7 +30167,7 @@ GameObject:
   - component: {fileID: 2050304333}
   - component: {fileID: 2050304332}
   m_Layer: 0
-  m_Name: Prompt (1)
+  m_Name: Prompt
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
